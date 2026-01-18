@@ -82,7 +82,7 @@ replicatedStorage.ChildAdded:Connect(function(child)
     end
 end)
 
-local FastRebTab = window:AddTab("Fast Rebirth")
+local FastRebTab = window:AddTab("Rebirth")
 FastRebTab:Show()
 
 local function formatNumber(num)
@@ -468,7 +468,7 @@ end)
 
 
 
-local FarmingTab = window:AddTab("Fast Farm")
+local FarmingTab = window:AddTab("Farming")
 
 local strengthStat = leaderstats:WaitForChild("Strength")
 local durabilityStat = player:WaitForChild("Durability")
