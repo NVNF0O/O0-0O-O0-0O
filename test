@@ -27,7 +27,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/0o0o0
 
 local window = library:AddWindow("Veyna Farming (Rework)", {
     main_color = Color3.fromRGB(144, 0, 194),
-    min_size = Vector2.new(500, 550),
+    min_size = Vector2.new(500, 580),
     can_resize = false,
 })
 
