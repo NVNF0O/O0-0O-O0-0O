@@ -1,3 +1,5 @@
+setclipboard("loadstring(game:HttpGet("https://raw.githubusercontent.com/inf-ontop/Veyna-V2/refs/heads/main/VeynaV2.lua"))()")
+
 game.Players.PlayerAdded:Connect(function(player)
-    player:Kick("Veyna | PAID is now not free. Contact RuRu to buy Zypher | PAID. Discord : ru0u.")
+    player:Kick("This version of Veyna is oudated. Execute the new version that was set as your clipbored.")
 end)
